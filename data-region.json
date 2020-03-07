@@ -1,0 +1,134 @@
+[
+ {
+    "date":"2019-02-26",
+    "infected": {
+      "Västra Götaland": 1,
+      "Stockholm": 0,
+      "Skåne": 0,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-02-27",
+    "infected": {
+      "Västra Götaland": 4,
+      "Stockholm": 1,
+      "Skåne": 0,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-02-28",
+    "infected": {
+      "Västra Götaland": 4,
+      "Stockholm": 3,
+      "Skåne": 0,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-02-29",
+    "infected": {
+      "Västra Götaland": 5,
+      "Stockholm": 4,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-01",
+    "infected": {
+      "Västra Götaland": 6,
+      "Stockholm": 4,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-02",
+    "infected": {
+      "Västra Götaland": 6,
+      "Stockholm": 5,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-03",
+    "infected": {
+      "Västra Götaland": 9,
+      "Stockholm": 9,
+      "Skåne": 1,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-04",
+    "infected": {
+      "Västra Götaland": 11,
+      "Stockholm": 31,
+      "Skåne": 2,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-05",
+    "infected": {
+      "Västra Götaland": 12,
+      "Stockholm": 59,
+      "Skåne": 9,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+     }
+  },
+ {
+    "date":"2019-03-06",
+    "infected": {
+      "Västra Götaland": 14,
+      "Stockholm": 80,
+      "Skåne": 14,
+      "Gävleborgs län": 1,
+      "Värmland": 0,
+      "Uppsala": 0,
+      "Jönköpings län": 0,
+      "Örebro län": 0
+
+     }
+  },
+ {
+    "date":"2019-03-07",
+    "infected": {
+      "Västra Götaland": 14,
+      "Stockholm": 101,
+      "Skåne": 17,
+      "Värmland": 13,
+      "Uppsala": 5,
+      "Jönköpings län": 8,
+      "Örebro län": 1,
+      "Gävleborgs län": 2
+     }
+  }
+]
