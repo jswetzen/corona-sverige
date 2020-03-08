@@ -5,10 +5,7 @@
       "Västra Götaland": 1,
       "Stockholm": 0,
       "Skåne": 0,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Jönköpings län": 1
      }
   },
  {
@@ -17,10 +14,8 @@
       "Västra Götaland": 4,
       "Stockholm": 1,
       "Skåne": 0,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 1,
+      "Jönköpings län": 1
      }
   },
  {
@@ -29,10 +24,8 @@
       "Västra Götaland": 4,
       "Stockholm": 3,
       "Skåne": 0,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 2,
+      "Jönköpings län": 2
      }
   },
  {
@@ -40,10 +33,8 @@
     "infected": {
       "Västra Götaland": 5,
       "Stockholm": 4,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 2,
+      "Jönköpings län": 2
      }
   },
  {
@@ -51,10 +42,8 @@
     "infected": {
       "Västra Götaland": 6,
       "Stockholm": 4,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 2,
+      "Jönköpings län": 2
      }
   },
  {
@@ -62,10 +51,8 @@
     "infected": {
       "Västra Götaland": 6,
       "Stockholm": 5,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 2,
+      "Jönköpings län": 2
      }
   },
  {
@@ -74,10 +61,8 @@
       "Västra Götaland": 9,
       "Stockholm": 9,
       "Skåne": 1,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Uppsala": 2,
+      "Jönköpings län": 3
      }
   },
  {
@@ -86,10 +71,9 @@
       "Västra Götaland": 11,
       "Stockholm": 31,
       "Skåne": 2,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Värmland": 2,
+      "Uppsala": 2,
+      "Jönköpings län": 3
      }
   },
  {
@@ -98,10 +82,10 @@
       "Västra Götaland": 12,
       "Stockholm": 59,
       "Skåne": 9,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Värmland": 5,
+      "Uppsala": 4,
+      "Jönköpings län": 3,
+      "Örebro län": 1
      }
   },
  {
@@ -111,10 +95,10 @@
       "Stockholm": 80,
       "Skåne": 14,
       "Gävleborgs län": 1,
-      "Värmland": 0,
-      "Uppsala": 0,
-      "Jönköpings län": 0,
-      "Örebro län": 0
+      "Värmland": 13,
+      "Uppsala": 5,
+      "Jönköpings län": 8,
+      "Örebro län": 1
 
      }
   },
