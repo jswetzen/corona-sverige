@@ -1,6 +1,6 @@
 [
  {
-    "date":"2019-02-26",
+    "date":"2020-02-26",
     "infected": {
       "Västra Götaland": 1,
       "Stockholm": 0,
@@ -9,7 +9,7 @@
      }
   },
  {
-    "date":"2019-02-27",
+    "date":"2020-02-27",
     "infected": {
       "Västra Götaland": 4,
       "Stockholm": 1,
@@ -19,7 +19,7 @@
      }
   },
  {
-    "date":"2019-02-28",
+    "date":"2020-02-28",
     "infected": {
       "Västra Götaland": 4,
       "Stockholm": 3,
@@ -29,7 +29,7 @@
      }
   },
  {
-    "date":"2019-02-29",
+    "date":"2020-02-29",
     "infected": {
       "Västra Götaland": 5,
       "Stockholm": 4,
@@ -38,7 +38,7 @@
      }
   },
  {
-    "date":"2019-03-01",
+    "date":"2020-03-01",
     "infected": {
       "Västra Götaland": 6,
       "Stockholm": 4,
@@ -47,7 +47,7 @@
      }
   },
  {
-    "date":"2019-03-02",
+    "date":"2020-03-02",
     "infected": {
       "Västra Götaland": 6,
       "Stockholm": 5,
@@ -56,7 +56,7 @@
      }
   },
  {
-    "date":"2019-03-03",
+    "date":"2020-03-03",
     "infected": {
       "Västra Götaland": 9,
       "Stockholm": 9,
@@ -66,7 +66,7 @@
      }
   },
  {
-    "date":"2019-03-04",
+    "date":"2020-03-04",
     "infected": {
       "Västra Götaland": 11,
       "Stockholm": 31,
@@ -77,7 +77,7 @@
      }
   },
  {
-    "date":"2019-03-05",
+    "date":"2020-03-05",
     "infected": {
       "Västra Götaland": 12,
       "Stockholm": 59,
@@ -89,7 +89,7 @@
      }
   },
  {
-    "date":"2019-03-06",
+    "date":"2020-03-06",
     "infected": {
       "Västra Götaland": 14,
       "Stockholm": 80,
@@ -103,7 +103,7 @@
      }
   },
  {
-    "date":"2019-03-07",
+    "date":"2020-03-07",
     "infected": {
       "Västra Götaland": 14,
       "Stockholm": 101,
@@ -116,14 +116,14 @@
      }
   },
  {
-    "date":"2019-03-08",
+    "date":"2020-03-08",
     "infected": {
       "Västra Götaland": 26,
-      "Stockholm": 101,
+      "Stockholm": 115,
       "Skåne": 22,
       "Värmland": 20,
       "Uppsala": 6,
-      "Jönköpings län": 8,
+      "Jönköpings län": 9,
       "Örebro län": 4,
       "Gävleborgs län": 2
      }
