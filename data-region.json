@@ -115,21 +115,6 @@
       "Gävleborgs län": 2
      }
   },
-
- {
-    "date":"2019-03-06",
-    "infected": {
-      "Västra Götaland": 14,
-      "Stockholm": 80,
-      "Skåne": 14,
-      "Gävleborgs län": 1,
-      "Värmland": 13,
-      "Uppsala": 5,
-      "Jönköpings län": 8,
-      "Örebro län": 1
-
-     }
-  },
  {
     "date":"2019-03-08",
     "infected": {
@@ -143,5 +128,4 @@
       "Gävleborgs län": 2
      }
   }
-
 ]
