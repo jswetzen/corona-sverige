@@ -2,145 +2,148 @@
  {
     "date":"2020-02-26",
     "infected": {
-      "Västra Götaland": 1,
-      "Stockholm": 0,
-      "Skåne": 0,
-      "Jönköpings län": 1
+      "Västra Götalandsregionen": 1,
+      "Region Stockholm": 0,
+      "Region Skåne": 0,
+      "Region Jönköpings län": 1
      }
   },
  {
     "date":"2020-02-27",
     "infected": {
-      "Västra Götaland": 4,
-      "Stockholm": 1,
-      "Skåne": 0,
-      "Uppsala": 1,
-      "Jönköpings län": 1
+      "Västra Götalandsregionen": 4,
+      "Region Stockholm": 1,
+      "Region Skåne": 0,
+      "Region Uppsala": 1,
+      "Region Jönköpings län": 1
      }
   },
  {
     "date":"2020-02-28",
     "infected": {
-      "Västra Götaland": 4,
-      "Stockholm": 3,
-      "Skåne": 0,
-      "Uppsala": 2,
-      "Jönköpings län": 2
+      "Västra Götalandsregionen": 4,
+      "Region Stockholm": 3,
+      "Region Skåne": 0,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 2
      }
   },
  {
     "date":"2020-02-29",
     "infected": {
-      "Västra Götaland": 5,
-      "Stockholm": 4,
-      "Uppsala": 2,
-      "Jönköpings län": 2
+      "Västra Götalandsregionen": 5,
+      "Region Stockholm": 4,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 2
      }
   },
  {
     "date":"2020-03-01",
     "infected": {
-      "Västra Götaland": 6,
-      "Stockholm": 4,
-      "Uppsala": 2,
-      "Jönköpings län": 2
+      "Västra Götalandsregionen": 6,
+      "Region Stockholm": 4,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 2
      }
   },
  {
     "date":"2020-03-02",
     "infected": {
-      "Västra Götaland": 6,
-      "Stockholm": 5,
-      "Uppsala": 2,
-      "Jönköpings län": 2
+      "Västra Götalandsregionen": 6,
+      "Region Stockholm": 5,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 2
      }
   },
  {
     "date":"2020-03-03",
     "infected": {
-      "Västra Götaland": 9,
-      "Stockholm": 9,
-      "Skåne": 1,
-      "Uppsala": 2,
-      "Jönköpings län": 3
+      "Västra Götalandsregionen": 9,
+      "Region Stockholm": 9,
+      "Region Skåne": 1,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 3
      }
   },
  {
     "date":"2020-03-04",
     "infected": {
-      "Västra Götaland": 11,
-      "Stockholm": 31,
-      "Skåne": 2,
-      "Värmland": 2,
-      "Uppsala": 2,
-      "Jönköpings län": 3
+      "Västra Götalandsregionen": 11,
+      "Region Stockholm": 31,
+      "Region Skåne": 2,
+      "Region Värmland": 2,
+      "Region Uppsala": 2,
+      "Region Jönköpings län": 3
      }
   },
  {
     "date":"2020-03-05",
     "infected": {
-      "Västra Götaland": 12,
-      "Stockholm": 59,
-      "Skåne": 9,
-      "Värmland": 5,
-      "Uppsala": 4,
-      "Jönköpings län": 3,
-      "Örebro län": 1
+      "Västra Götalandsregionen": 12,
+      "Region Stockholm": 59,
+      "Region Skåne": 9,
+      "Region Värmland": 5,
+      "Region Uppsala": 4,
+      "Region Jönköpings län": 3,
+      "Region Örebro": 1
      }
   },
  {
     "date":"2020-03-06",
     "infected": {
-      "Västra Götaland": 14,
-      "Stockholm": 80,
-      "Skåne": 14,
-      "Gävleborgs län": 1,
-      "Värmland": 13,
-      "Uppsala": 5,
-      "Jönköpings län": 8,
-      "Örebro län": 1
+      "Västra Götalandsregionen": 14,
+      "Region Stockholm": 80,
+      "Region Skåne": 14,
+      "Region Gävleborg": 1,
+      "Region Värmland": 13,
+      "Region Uppsala": 5,
+      "Region Jönköpings län": 8,
+      "Region Örebro": 1
 
      }
   },
  {
     "date":"2020-03-07",
     "infected": {
-      "Västra Götaland": 14,
-      "Stockholm": 101,
-      "Skåne": 17,
-      "Värmland": 13,
-      "Uppsala": 5,
-      "Jönköpings län": 8,
-      "Örebro län": 1,
-      "Gävleborgs län": 2
+      "Västra Götalandsregionen": 14,
+      "Region Stockholm": 101,
+      "Region Skåne": 17,
+      "Region Värmland": 13,
+      "Region Uppsala": 5,
+      "Region Jönköpings län": 8,
+      "Region Örebro": 1,
+      "Region Gävleborg": 2
      }
   },
  {
     "date":"2020-03-08",
     "infected": {
-      "Västra Götaland": 26,
-      "Stockholm": 115,
-      "Skåne": 22,
-      "Värmland": 20,
-      "Uppsala": 6,
-      "Jönköpings län": 9,
-      "Örebro län": 4,
-      "Gävleborgs län": 2
+      "Västra Götalandsregionen": 26,
+      "Region Stockholm": 115,
+      "Region Skåne": 22,
+      "Region Värmland": 20,
+      "Region Uppsala": 6,
+      "Region Jönköpings län": 9,
+      "Region Örebro": 4,
+      "Region Gävleborg": 2
      }
   },
 
  {
     "date":"2020-03-09",
     "infected": {
-      "Västra Götaland": 32,
-      "Stockholm": 147,
-      "Skåne": 22,
-      "Värmland": 21,
-      "Uppsala": 9,
-      "Jönköpings län": 10,
-      "Örebro län": 4,
-      "Gävleborgs län": 2,
-      "Region Halland": 2
+      "Region Stockholm": 147,
+      "Västra Götalandsregionen": 33,
+      "Region Skåne": 22,
+      "Region Värmland": 21,
+      "Region Jönköpings län": 10,
+      "Region Uppsala": 8,
+      "Region Västerbotten": 5,
+      "Region Halland": 5,
+      "Region Örebro": 4,
+      "Region Gävleborg": 2,
+      "Region Sörmland": 1,
+      "Region Norrbotten": 1
      }
   }
 ]
