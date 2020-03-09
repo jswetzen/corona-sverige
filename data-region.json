@@ -127,5 +127,20 @@
       "Örebro län": 4,
       "Gävleborgs län": 2
      }
+  },
+
+ {
+    "date":"2020-03-09",
+    "infected": {
+      "Västra Götaland": 32,
+      "Stockholm": 147,
+      "Skåne": 22,
+      "Värmland": 21,
+      "Uppsala": 9,
+      "Jönköpings län": 10,
+      "Örebro län": 4,
+      "Gävleborgs län": 2,
+      "Region Halland": 2
+     }
   }
 ]
