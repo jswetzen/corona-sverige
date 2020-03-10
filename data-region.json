@@ -128,7 +128,6 @@
       "Region Gävleborg": 2
      }
   },
-
  {
     "date":"2020-03-09",
     "infected": {
@@ -145,5 +144,26 @@
       "Region Sörmland": 1,
       "Region Norrbotten": 1
      }
-  }
+  },
+ {
+    "date":"2020-03-10",
+    "infected": {
+      "Region Stockholm": 207,
+      "Västra Götalandsregionen": 48,
+      "Region Skåne": 25,
+      "Region Värmland": 22,
+      "Region Jönköpings län": 10,
+      "Region Uppsala": 8,
+      "Region Västerbotten": 5,
+      "Region Halland": 6,
+      "Region Örebro": 5,
+      "Region Gävleborg": 2,
+      "Region Sörmland": 2,
+      "Region Norrbotten": 2,
+      "Region Sörmland": 1,
+      "Region Östergötland": 1,
+      "Region Jämtland Härjedalen": 1,
+      "Region Kalmar": 1,
+     }
+}
 ]
